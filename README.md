@@ -20,11 +20,11 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
       src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
     />
   </a>
-   <a href="https://tayfunuyar.net">
+  <!-- <a href="https://tayfunuyar.net">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunuyar&layout=compact&theme=tokyonight" />
-  </a> 
+  </a>  -->
 <!-- <a href="">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunuyar&theme=blue-green)](https://github.com/tayfunuyar/github-readme-streak-stats" height="150" />
   </a> -->
