@@ -9,7 +9,7 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
 - 🔭 I’m currently working on JavaScript/.Net  apps/systems
 - 🌱 I’m currently learning Next.js,Nuxt.js, DevOps and of course JS improvements
 - 💬 Ask me about: tech, software,ext..
--  ⚡ Technologies: .Net,.Net Core, React, Node, React-Native,Flutter,Angular,Xamarin,Spring MVC,Spring Boot ... 
+-  ⚡ Technologies: .Net,.Net Core, React,Node, React-Native,Flutter,Angular,Xamarin,Spring MVC,Spring Boot ... 
 
 "Do not expect from others what you expect of yourself." 
 
@@ -20,7 +20,7 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
       src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
     />
   </a>
-  <!-- <a href="https://tayfunuyar.net">
+  <!-- <a href="https://tayfunuyar.me">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunuyar&layout=compact&theme=tokyonight" />
