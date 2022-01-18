@@ -29,7 +29,8 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunuyar&theme=blue-green)](https://github.com/tayfunuyar/github-readme-streak-stats" height="150" />
   </a> -->
 </p>
-
+<div  align="center"> <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" /></div>
+ 
 ### Nuget Packages:
 https://www.nuget.org/packages/WsSecurityCore/
 ### Technologies:
