@@ -15,9 +15,7 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
 
 <p align="justify">
   <a href="https://tayfunuyar.me">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=tokyonight"
+    <img src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues"
     />
   </a>
   <!-- <a href="https://tayfunuyar.me">
