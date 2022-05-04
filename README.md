@@ -18,14 +18,11 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
     <img src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues"
     />
   </a>
-  <!-- <a href="https://tayfunuyar.me">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayfunuyar&layout=compact&theme=tokyonight" />
-  </a>  -->
-<!-- <a href="">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayfunuyar&theme=blue-green)](https://github.com/tayfunuyar/github-readme-streak-stats" height="150" />
-  </a> -->
+ <a href="https://tayfunuyar.me">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=tayfunuyar&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>  
+ 
 </p>
 <div  align="center"> <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" /></div>
  
