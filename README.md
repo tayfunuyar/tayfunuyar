@@ -24,8 +24,12 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
   </a>  
  
 </p>
-<div  align="center"> <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" /></div>
- 
+<div  align="center"> 
+   <a href='https://ko-fi.com/showmecode' target='_blank'>
+     <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee' />
+  <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" />
+     </div>
+
 ### Nuget Packages:
 https://www.nuget.org/packages/WsSecurityCore/
 ### Technologies:
