@@ -8,8 +8,8 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
 
 - 🔭 I’m currently working on JavaScript/.Net  apps/systems
 - 🌱 I’m currently learning Next.js,Nuxt.js, DevOps and of course JS improvements
-- 💬 Ask me about: tech, software,ext..
--  ⚡ Technologies: .Net,.Net Core, React,Node, React-Native,Flutter,Angular,Xamarin,Spring MVC,Spring Boot ... 
+- 💬 Ask me about: tech, blockchain,software,ext..
+-  ⚡ Technologies: Golang,.Net,.Net Core, React,Node, React-Native,Flutter,Angular,Xamarin,Spring MVC,Spring Boot ... 
 
 "Do not expect from others what you expect of yourself." 
 
@@ -24,9 +24,7 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
   </a>  
  
 </p>
-<div  align="center"> 
- <a href="https://www.buymeacoffee.com/showmecode" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
- 
+<div  align="center">  
   <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" />
      </div>
 
