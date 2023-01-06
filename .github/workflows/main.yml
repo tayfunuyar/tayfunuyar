@@ -30,10 +30,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: tayfunuyar
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg 
          
          
 
