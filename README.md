@@ -13,17 +13,18 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
 
 "Do not expect from others what you expect of yourself." 
 
-<p align="justify">
+<div  style="flex-direction: row;
+     justify-content: space-evenly;">
   <a href="https://tayfunuyar.me">
-    <img src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues"
+    <img  style="flex:1" src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues"
     />
   </a>
  <a href="https://tayfunuyar.me">
-    <img 
+    <img   style="flex:1"
       src="https://github-readme-streak-stats.herokuapp.com?user=tayfunuyar&date_format=M%20j%5B%2C%20Y%5D" />
   </a>  
  
-</p>
+</div>
 <div  align="center">  
   <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" />
      </div>
