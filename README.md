@@ -24,10 +24,21 @@ I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about Jav
       src="https://github-readme-streak-stats.herokuapp.com?user=tayfunuyar&date_format=M%20j%5B%2C%20Y%5D" />
   </a>  
  
-</div>
-<div  align="center">  
-  <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.gif" />
-     </div>
+</div> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### Nuget Packages:
 https://www.nuget.org/packages/WsSecurityCore/
