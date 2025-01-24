@@ -60,10 +60,6 @@ Hey there! 👋 I'm Tayfun, a passionate Software Engineer with expertise in Jav
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=tayfunuyar&theme=tokyonight&hide_border=true" />
-</div>
-
 ### 🐍 Contribution Graph
 <div align="center">
   <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
