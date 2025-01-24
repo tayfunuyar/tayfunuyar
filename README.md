@@ -1,51 +1,81 @@
 # Tayfun Uyar
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-tayfunuyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayfun-uyar/)](https://www.linkedin.com/in/tayfun-uyar/)
+[![GitHub followers](https://img.shields.io/github/followers/tayfunuyar?label=Follow&style=social)](https://github.com/tayfunuyar)
+[![Medium Badge](https://img.shields.io/badge/-@tayfunuyar-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tayfunuyar/)](https://medium.com/@tayfunuyar)
 
+## 👨‍💻 About Me
 
-## Hi 👋, 
-I'm Tayfun Uyar, I'm a Software Engineer 👨‍💻 who is passionate about JavaScript,.Net technologies and its entire ecosystem. 
+Hey there! 👋 I'm Tayfun, a passionate Software Engineer with expertise in JavaScript, .NET technologies, and their ecosystems. I love building scalable applications and exploring new technologies.
 
-- 🔭 I’m currently working on JavaScript/.Net  apps/systems
-- 🌱 I’m currently learning Next.js,Nuxt.js, DevOps and of course JS improvements
-- 💬 Ask me about: tech, blockchain,software,ext..
--  ⚡ Technologies: Golang,.Net,.Net Core, React,Node, React-Native,Flutter,Angular,Xamarin,Spring MVC,Spring Boot ... 
+### 🚀 What I'm up to:
 
-"Do not expect from others what you expect of yourself." 
+- 🔭 Currently working on JavaScript/.NET applications and systems
+- 🌱 Learning Next.js, Nuxt.js, and DevOps practices
+- 💡 Open to collaborating on interesting projects
+- 💬 Ask me about: Tech, Blockchain, Software Architecture
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tayfun-uyar/)
 
-<div  style="flex-direction: row;
-     justify-content: space-evenly;">
-  <a href="https://tayfunuyar.me">
-    <img  style="flex:1" src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues"
-    />
-  </a>
-<a href="https://github.com/tayfunuyar"><img src="https://git-hub-streak-stats.vercel.app?user=tayfunuyar"  /></a>
-</div> 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/tayfunuyar/tayfunuyar/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### 🛠️ Tech Stack
 
-### Nuget Packages:
-https://www.nuget.org/packages/WsSecurityCore/
-### Technologies:
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383049-c441a180-9b95-11eb-97ca-fe007eb03fd3.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383803-a0cb2680-9b96-11eb-989b-acb3ae0b2f62.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383612-68c3e380-9b96-11eb-9865-faf3e4084fcc.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383605-6792b680-9b96-11eb-9289-994303dd28ae.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383422-31553700-9b96-11eb-87b5-aeede4c58590.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383598-66618980-9b96-11eb-8a11-53a2a1fe0e36.png"></code> 
-<code><img height="25" src="https://user-images.githubusercontent.com/27923376/114383591-63ff2f80-9b96-11eb-8096-324818a6ca3c.png"></code> 
-<code><img height="25" src="https://user-images.githubusercontent.com/27923376/114383534-52b62300-9b96-11eb-915e-6248657c704e.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383871-b2143300-9b96-11eb-8474-128d73232282.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/27923376/114383382-25697500-9b96-11eb-9b90-f50c2cc54302.png"></code>
+<div align="center">
+  
+#### Languages & Frameworks
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Tools & Technologies
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 📦 Notable Work
+- [WsSecurityCore](https://www.nuget.org/packages/WsSecurityCore/) - A NuGet package for WS-Security implementation
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tayfunuyar&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+### 📈 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayfunuyar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=tayfunuyar&theme=tokyonight&hide_border=true" />
+</div>
+
+### 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github.com/tayfunuyar/tayfunuyar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+### 📊 Weekly Development Breakdown
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayfunuyar&theme=tokyo-night&hide_border=true&radius=8" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Do not expect from others what you expect of yourself."</i>
+</div>
